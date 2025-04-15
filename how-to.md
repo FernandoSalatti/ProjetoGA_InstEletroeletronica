@@ -1,4 +1,4 @@
-# PROJETO GA - INSTRUMENTAÇÃO ELETROELETR6ONICA
+# PROJETO GA - INSTRUMENTAÇÃO ELETROELETRÔNICA
 
 - PO objetivo deste trabalho é desenvolver um dispositivo para medição de temperatura, com saída analógica de 0 a 5 V e comunicação com sistema supervisório.
 
